@@ -1,4 +1,5 @@
-# Exercise 4.1 Neuron_OR.py
+# Exercise 4.1
+# Example 4.1 sudah menerapkan OR, jadi tidak ada perubahan
 from numpy import exp, array, random, dot
 
 inputs = array([[0, 0], [1, 1], [1, 0], [0, 1]])

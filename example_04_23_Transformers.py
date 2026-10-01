@@ -5,4 +5,4 @@
 
 from transformers import pipeline
 classifier = pipeline('sentiment-analysis')
-classifier('This is a good movie.')
+print(classifier('This is a good movie.'))

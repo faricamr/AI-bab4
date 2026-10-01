@@ -1,4 +1,4 @@
-# Exercise 4.9 VGG19.py
+# Exercise 4.9 
 from keras.preprocessing import image
 from keras.applications.vgg19 import VGG19
 from keras.applications.vgg19 import preprocess_input

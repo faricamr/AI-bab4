@@ -1,4 +1,4 @@
-#Example 4.4 Multiple Layer Perceptron Classification
+#Example 4.3 Multiple Layer Perceptron Classification
 from keras.models import Sequential
 from keras.layers import Activation, Dense
 from keras import optimizers
